@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Laravel , React native ,Java**
 
-- 👨‍💻 All of my projects are available at [https://www.laviru.ml/](https://www.laviru.ml/)
+- 👨‍💻 All of my projects are available at [https://teskill.com/](https://teskill.com/)
 
 - 💬 Ask me about **React , node , Html ,css , python ,php ,sql , mongodb**
 
-- 📫 How to reach me **dilshanrathnayaka31@gmail.com**
+- 📫 How to reach me **lavirudev@gmail.com**
 
 - ⚡ Fun fact **Yellow is my fav.**
 
